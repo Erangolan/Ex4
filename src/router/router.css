@@ -1,0 +1,7 @@
+#wrapper {
+    margin: 35px;
+    background: url(../Components/images.jpg);
+    height: 700px;
+    background-size: cover;
+    border-radius: 5px;
+}

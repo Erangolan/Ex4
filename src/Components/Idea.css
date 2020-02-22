@@ -1,0 +1,28 @@
+div.idea {
+    width: 362px;
+    height: 69px;
+    display: flex;
+}
+
+div.buttons {
+    margin-top: 27px;
+    margin-left: 30px;
+}
+
+svg#edit.btn.btn-primary {
+    width: 14px;
+    height: 18px;
+    left: calc(50% - 14px/2);
+    top: calc(50% - 18px/2);
+    background: #FD5842;
+    margin-right: 16px;
+}
+
+#delete {
+    width: 14px;
+    height: 18px;
+    left: calc(50% - 18px/2 + 0px);
+    top: calc(50% - 18px/2 + 0px);
+    background: #FFFFFF;
+    
+}

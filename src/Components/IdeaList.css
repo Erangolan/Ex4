@@ -1,0 +1,35 @@
+div.ideasList{
+    width: 362px;
+    height: 378px;
+    margin-left: 951px;
+    top: 272px;
+    background: rgba(23, 25, 50, 0.6);
+    box-shadow: 0px 4px 14px rgba(23, 25, 50, 0.5);
+    border-radius: 10px;
+    overflow-y: 'scroll';
+}
+
+div.card{
+    display: flex;
+}
+
+p.card-text {
+    width: 250px;
+    height: 24px;
+    left: 1069px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    margin-left: 18px;
+}
+
+hr.MuiDivider-root {
+    width: 362px;
+    height: 1px;
+    left: 1051px;
+    top: 64px;
+    color: #FFFFFF;
+}
